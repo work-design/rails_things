@@ -1,28 +1,15 @@
 # RailsThings
-Short description and motivation.
+`accesss things3 app data from rails app`
+
+## things db
+
+* db 为 sqlite3
+* db 位置： `~/Library/Containers/com.culturedcode.things/Data/Library/Application Support/Cultured Code/Things/ThingsLibrary.db`
 
 ## Usage
 How to use my plugin.
 
-## Installation
-Add this line to your application's Gemfile:
 
-```ruby
-gem 'rails_things'
-```
-
-And then execute:
-```bash
-$ bundle
-```
-
-Or install it yourself as:
-```bash
-$ gem install rails_things
-```
-
-## Contributing
-Contribution directions go here.
 
 ## License
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).

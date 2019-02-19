@@ -1,0 +1,3 @@
+class ThingsRecord < ApplicationRecord
+
+end
